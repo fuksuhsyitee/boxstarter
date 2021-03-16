@@ -1,0 +1,10 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst megatools
+cinst opera
+cinst vcredist140
+cinst winrar
+cinst notepadplusplus --x86
+cinst microsoft-windows-terminal
+cinst boxstarter
