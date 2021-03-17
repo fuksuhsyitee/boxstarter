@@ -1,1 +1,1 @@
-Install-BoxstarterPackage -PackageName https://gist.githubusercontent.com/fuksuhsyitee/dc96f8c65c743e78506a1c599f4af796/raw/e1c86cdafe6ab9285bbc6c2c205eb5e298ac10ff/bstart -DisableReboots
+Install-BoxstarterPackage -PackageName https://gist.githubusercontent.com/fuksuhsyitee/74f254f0ae822b2195c21edd909369ac/raw/39dd2346bea3b178c825e8012eed2c1e2e109f83/2 -DisableReboots
